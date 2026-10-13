@@ -5,14 +5,12 @@ Sou estudante de Ciência da Computação e atuo como Assistente de T.I. Tenho f
 ## O que estou fazendo
 - Desenvolvendo aplicações corporativas e automações utilizando **Power Apps, Power Automate e SharePoint**.
 - Atuando no suporte de T.I, gestão de endpoints e resolução de chamados técnicos.
-- Construindo APIs e serviços backend com **Node.js**.
-- Aplicando **Python** no desenvolvimento de projetos acadêmicos e cursos complementares.
 - Explorando inovações como **Visão Computacional** e **IoT** na faculdade.
 
 ## Tecnologias e Ferramentas
 - **Ecossistema Microsoft:** Power Platform (Power Apps, Automate), SharePoint, Intune, Microsoft 365
 - **Suporte e Gestão:** ServiceNow, ConnectWise, manutenção de hardware
-- **Linguagens:** JavaScript/TypeScript, SQL, Python (Foco acadêmico/estudos)
+- **Linguagens:** JavaScript/TypeScript, SQL, Java, Python (Foco acadêmico/estudos)
 - **Backend & Infraestrutura:** FastAPI, PostgreSQL, Docker, Git
 
 ## Projetos
