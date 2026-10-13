@@ -14,9 +14,9 @@ Sou estudante de Ciência da Computação e atuo como Assistente de T.I. Tenho f
 - **Backend & Infraestrutura:** FastAPI, PostgreSQL, Docker, Git
 
 ## Projetos
-- API de Pedidos — API REST desenvolvida com TypeScript, Express, SQL Server e Docker.
-- Estoque Inteligente — Sistema para controle de estoque desenvolvido durante a graduação.
-- Reconhecimento Facial — Projeto desenvolvido em Python envolvendo reconhecimento facial.
+- **[API de Pedidos](https://github.com/Guilherme-Rodrigues011/Sua-API):** API REST desenvolvida com TypeScript, Express, SQL Server e Docker.
+- **[Estoque Inteligente](https://github.com/Guilherme-Rodrigues011/Estoque-Inteligente):** Sistema para controle de estoque desenvolvido durante a graduação.
+- **[Reconhecimento Facial](https://github.com/Guilherme-Rodrigues011/reconhecimento_facial):** Projeto desenvolvido em Python envolvendo reconhecimento facial.
 
 
 ## Como me encontrar
