@@ -21,4 +21,4 @@ Sou estudante de Ciência da Computação e atuo como Assistente de T.I. Tenho f
 
 ## Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/guilherme-rodrigues-156553285/?isSelfProfile=true)
-- E-mail: guiilhermerodrigues011@gmail.com
+- [E-mail](guiilhermerodrigues011@gmail.com)
