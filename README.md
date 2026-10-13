@@ -12,8 +12,13 @@ Sou estudante de Ciência da Computação e atuo como Assistente de T.I. Tenho f
 ## Tecnologias e Ferramentas
 - **Ecossistema Microsoft:** Power Platform (Power Apps, Automate), SharePoint, Intune, Microsoft 365
 - **Suporte e Gestão:** ServiceNow, ConnectWise, manutenção de hardware
-- **Linguagens:** JavaScript/TypeScript, Python (Foco acadêmico/estudos)
+- **Linguagens:** JavaScript/TypeScript, SQL, Python (Foco acadêmico/estudos)
 - **Backend & Infraestrutura:** FastAPI, PostgreSQL, Docker, Git
+
+## Projetos
+API de Pedidos — API REST desenvolvida com TypeScript, Express, SQL Server e Docker.
+Estoque Inteligente — Sistema para controle de estoque desenvolvido durante a graduação.
+Reconhecimento Facial — Projeto desenvolvido em Python envolvendo reconhecimento facial.
 
 ## Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/guilherme-rodrigues-156553285/?isSelfProfile=true)
