@@ -16,9 +16,10 @@ Sou estudante de Ciência da Computação e atuo como Assistente de T.I. Tenho f
 - **Backend & Infraestrutura:** FastAPI, PostgreSQL, Docker, Git
 
 ## Projetos
-API de Pedidos — API REST desenvolvida com TypeScript, Express, SQL Server e Docker.
-Estoque Inteligente — Sistema para controle de estoque desenvolvido durante a graduação.
-Reconhecimento Facial — Projeto desenvolvido em Python envolvendo reconhecimento facial.
+- API de Pedidos — API REST desenvolvida com TypeScript, Express, SQL Server e Docker.
+- Estoque Inteligente — Sistema para controle de estoque desenvolvido durante a graduação.
+- Reconhecimento Facial — Projeto desenvolvido em Python envolvendo reconhecimento facial.
+
 
 ## Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/guilherme-rodrigues-156553285/?isSelfProfile=true)
